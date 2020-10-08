@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "author": "Shubham Sunny",
+      "title": "Stars around us. updated",
+      "contact": "9771823804",
+      "publish_on": "bihar"
+    },
+    {
+      "id": "2",
+      "author": "Shubham Sunny",
+      "title": "Stars around us.",
+      "contact": "9771823804",
+      "publish_on": "bihar"
+    },
+    {
+      "id": "3",
+      "author": "Shubham Sunny",
+      "title": "Stars around us.",
+      "contact": "9771823804",
+      "publish_on": "bihar"
+    },
+    {
+      "id": "4",
+      "author": "Shubham Sunny",
+      "title": "Stars around us.",
+      "contact": "9771823804",
+      "publish_on": "bihar"
+    },
+    {
+      "author": "SHUBHAM S TEST",
+      "title": "NEW ONE",
+      "contact": "9771823456",
+      "publish_on": "2020-10-21",
+      "id": "FQn34S7"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Shubham",
+      "email": "Shubhamsahaninitkkr@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Shubham Sunny",
+      "email": "Shubhamsahanirockstar@gmail.com"
+    }
+  ]
+}
