@@ -1,51 +1,24 @@
 {
-  "posts": [
+  "Campigns": [
     {
-      "id": "1",
-      "author": "Shubham Sunny",
-      "title": "Stars around us. updated",
-      "contact": "9771823804",
-      "publish_on": "bihar"
+      "id": "918842",
+      "itemName": "Spicy Thai Crunch (DI) 2 pcs Mea",
+      "desc": "2 pcs Chicken (Spicy Thai Crunch / O.R. / H.C.)",
+      "category": "          <EditButton basePath='/Campigns' />",
+      "productName": "Spicy thai crunch",
+      "productType": "LTO",
+      "menuType": "LTO: New Product Launch",
+      "bundleType": "Individual Meal"
     },
     {
-      "id": "2",
-      "author": "Shubham Sunny",
-      "title": "Stars around us.",
-      "contact": "9771823804",
-      "publish_on": "bihar"
-    },
-    {
-      "id": "3",
-      "author": "Shubham Sunny",
-      "title": "Stars around us.",
-      "contact": "9771823804",
-      "publish_on": "bihar"
-    },
-    {
-      "id": "4",
-      "author": "Shubham Sunny",
-      "title": "Stars around us.",
-      "contact": "9771823804",
-      "publish_on": "bihar"
-    },
-    {
-      "author": "SHUBHAM S TEST",
-      "title": "NEW ONE",
-      "contact": "9771823456",
-      "publish_on": "2020-10-21",
-      "id": "FQn34S7"
-    }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "name": "Shubham",
-      "email": "Shubhamsahaninitkkr@gmail.com"
-    },
-    {
-      "id": "2",
-      "name": "Shubham Sunny",
-      "email": "Shubhamsahanirockstar@gmail.com"
+      "id": "918843",
+      "itemName": "Spicy Thai Crunch (DI) 2 pcs Meal",
+      "desc": "2 pcs Chicken (Spicy Thai Crunch / O.R. / H.C.)",
+      "category": "chcicken-on-bone",
+      "productName": "Spicy thai crunch",
+      "productType": "LTO",
+      "menuType": "LTO: New Product Launch",
+      "bundleType": "Individual Meal"
     }
   ]
 }

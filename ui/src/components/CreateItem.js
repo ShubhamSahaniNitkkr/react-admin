@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Create, SimpleForm, TextInput, DateInput } from 'react-admin';
 
-export class CreatePost extends Component {
+export class CreateItem extends Component {
   render() {
     return (
       <Create {...this.props} title='Create a Post'>
@@ -16,4 +16,4 @@ export class CreatePost extends Component {
   }
 }
 
-export default CreatePost;
+export default CreateItem;
